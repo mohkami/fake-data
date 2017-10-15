@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": "id1",
+      "isbn": "isbn1"
+    },
+    {
+      "id": "id2",
+      "isbn": "isbn2"
+    }
+  ]
+}
